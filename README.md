@@ -661,6 +661,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ### Marketing Tools
 
+- ⚙️ [AdVariq](https://advariq.com/) - AI commercial ad creative and product marketing visual generator for DTC brands and online sellers.
+
 - ⚙️ [Which apps does a Shopify store use?](https://whichshopifyapps.com/#!/).
 
 - ⚙️ [BuiltWith](https://builtwith.com/).
